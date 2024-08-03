@@ -37,4 +37,6 @@ public class SimpleMath {
         // Retorna a raiz quadrada de number
         return Math.sqrt(number);
     }
+    
+    //teste
 }
